@@ -12,11 +12,11 @@ READ ME - TABELA HASH EM JAVA
   O programa permite realizar as seguintes operações em uma tabela hash de alunos:
   
   - Inserir um aluno na tabela hash.
-  - 
+    
   - Remover um aluno da tabela hash.
-  - 
+    
   - Buscar um aluno na tabela hash.
-  - 
+    
   - Imprimir o conteúdo da tabela hash.
   
   O fator de carga da tabela hash (número de elementos / tamanho da tabela) é calculado e exibido.
